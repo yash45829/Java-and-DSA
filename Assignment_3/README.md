@@ -1,4 +1,4 @@
-<h1>Assignment 2</h1>
+<h1>Assignment 3</h1>
 <h2>Topic : Data Structure & Algorithms</h2>
 <h2>Language used : Java</h2>
 
